@@ -11,20 +11,19 @@ An application that helps taking notes and making them available for later use f
 
 *Author
 
-
+## Usage
 To install the necessary dependencies, simply run the following command in the terminal (make sure you are in the correct path):
 
 npm install
 
-Usage
 The application starts when the following command is typed in the terminal:
 
 node server.js
 
-Building blocks 
+## Building blocks 
 Javascript - Javascript
 NodeJs - NodeJs
 
-Author
+## Author
 Alsy Arista
 github: alarista
