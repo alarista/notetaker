@@ -5,11 +5,9 @@ An application that helps taking notes and making them available for later use f
 
 ## Table of Contents
 
-*Usage
-
-*Building blocks
-
-*Author
+-Usage
+-Building blocks
+-Author
 
 ## Usage
 To install the necessary dependencies, simply run the following command in the terminal (make sure you are in the correct path):
